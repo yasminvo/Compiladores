@@ -10,9 +10,9 @@ desenvolvida pelo Prof. Jander no DC/UFSCar.
 ## Membros do grupo
 
 <!-- TODO: preencha com os nomes e RAs do grupo -->
-- Yasmin Victoria Oliveira — RA: 812308
+- Yasmin Victoria Oliveira — 812308
 - Anna Carolina Brito Santos Farias - 811448
-- Nome 3 — RA: XXXXXX
+- Vitor Yuki Inumaru Ferreira — 794041
 
 ---
 
