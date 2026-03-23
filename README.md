@@ -10,8 +10,8 @@ desenvolvida pelo Prof. Jander no DC/UFSCar.
 ## Membros do grupo
 
 <!-- TODO: preencha com os nomes e RAs do grupo -->
-- Nome 1 — RA: XXXXXX
-- Nome 2 — RA: XXXXXX
+- Yasmin Victoria Oliveira — RA: 812308
+- Anna Carolina Brito Santos Farias - 811448
 - Nome 3 — RA: XXXXXX
 
 ---
