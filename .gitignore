@@ -16,6 +16,12 @@
 # macOS
 .DS_Store
 
+# Arquivos de especificação (não subir para o repo)
+*.pdf
+
+# Configurações locais do Claude Code
+.claude/
+
 # Arquivos temporários
 *.tmp
 *.log
